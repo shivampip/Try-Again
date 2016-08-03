@@ -18,6 +18,7 @@ public class ResultAC extends AppCompatActivity {
         this.startActivity(i);
     }
 
+    //Added from Github site
     public void gitDemo(){
         int a=12;
     }
