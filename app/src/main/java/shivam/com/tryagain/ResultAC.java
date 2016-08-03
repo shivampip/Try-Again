@@ -19,6 +19,7 @@ public class ResultAC extends AppCompatActivity {
     }
 
     //Added from Github site
+    //Added from Master site
     public void gitDemo(){
         int a=12;
     }
