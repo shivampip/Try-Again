@@ -17,4 +17,9 @@ public class ResultAC extends AppCompatActivity {
         Intent i= new Intent(this, MainActivity.class);
         this.startActivity(i);
     }
+
+    public void gitDemo(){
+        int a=12;
+    }
+
 }
